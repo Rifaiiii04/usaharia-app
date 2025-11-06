@@ -63,7 +63,7 @@ export default function Index() {
           style={{ fontFamily: "Poppins_400Regular" }}
         >
           Belum Punya Akun ?{" "}
-          <Link href="/#" className="text-green-600">
+          <Link href="/register" className="text-green-600">
             Daftar Sekarang
           </Link>
         </Text>

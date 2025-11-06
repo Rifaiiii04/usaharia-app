@@ -101,7 +101,7 @@ export default function Login() {
           style={{ fontFamily: "Poppins_400Regular" }}
         >
           Belum Punya Akun ?{" "}
-          <Link href="/#" className="text-green-700">
+          <Link href="./register" className="text-green-700">
             <Text>Daftar Sekarang</Text>
           </Link>
         </Text>
